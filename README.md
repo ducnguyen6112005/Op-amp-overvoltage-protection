@@ -36,7 +36,8 @@ hardware protection.
 
 ## Files
 - `/circuit-schematic.asc` — LTspice simulation schematic
-- `/breadboard-setup.jpg` — working breadboard
+- `/breadboard-setup.jpeg` — Working breadboard
+- `/circuit-drawing.jpeg` — Hand drawing schematic
 
 ## Key Concepts Learned
 - Comparator circuit design (Sense → Compare → React)
