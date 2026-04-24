@@ -80,5 +80,4 @@ $$
 
 ---
 
-## Work Eligibility
-Eligible for U.S. work authorization (STEM OPT/CPT) with no immediate sponsorship required.
+
