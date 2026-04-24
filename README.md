@@ -6,14 +6,14 @@
 ---
 
 ## Project Overview
--Designed and built an analog over-voltage protection circuit that disconnects a load when input voltage exceeds a defined threshold.  
--Simulated in LTspice and verified on physical hardware.
+- Designed and built an analog over-voltage protection circuit that disconnects a load when input voltage exceeds a defined threshold.  
+- Simulated in LTspice and verified on physical hardware.
 
 ---
 
 ## Problem Statement
--Voltage spikes can damage sensitive electronic loads.  
--This circuit provides automatic hardware protection without requiring a microcontroller.
+- Voltage spikes can damage sensitive electronic loads.  
+- This circuit provides automatic hardware protection without requiring a microcontroller.
 
 ---
 
