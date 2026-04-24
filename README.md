@@ -35,10 +35,8 @@ hardware protection.
 - Bench supply (variable V1 input)
 
 ## Files
-- `/ltspice/overvoltage_cutoff.asc` — LTspice simulation schematic
-- `/photos/breadboard.jpg` — working breadboard
-- `/photos/trip_before.jpg` — multimeter showing load voltage before trip
-- `/photos/trip_after.jpg` — multimeter showing 0V after trip
+- `/circuit-schematic.asc` — LTspice simulation schematic
+- `/breadboard-setup.jpg` — working breadboard
 
 ## Key Concepts Learned
 - Comparator circuit design (Sense → Compare → React)
